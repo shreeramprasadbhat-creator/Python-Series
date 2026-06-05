@@ -1,4 +1,4 @@
-#Adding given two numbers
+Adding two numbers#Adding given two numbers
 N1=int(input("enter first number: "))
 N2=int(input("enter second number: "))
 Result=N1+N2
