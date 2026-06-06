@@ -1,3 +1,4 @@
+
 text=(input("Enter the word: "))
 char=(input("Enter the char to remove it: "))
 result=" "
