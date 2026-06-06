@@ -1,3 +1,4 @@
+
 oval={'A','E','I','O','U','a','e','i','o','u'}
 text=input('enter the text:' )
 result=' '
